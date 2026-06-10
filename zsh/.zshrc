@@ -193,14 +193,5 @@ source $MODULESHOME/init/zsh
 
 module use ~/modules 
 
-export HTTP_PROXY="http://Y3zm63:bYUkmj@45.147.30.48:8000"
-export HTTPS_PROXY="http://Y3zm63:bYUkmj@45.147.30.48:8000"
-
-export http_proxy="http://Y3zm63:bYUkmj@45.147.30.48:8000"
-export https_proxy="http://Y3zm63:bYUkmj@45.147.30.48:8000"
-export NO_PROXY="localhost,127.0.0.1"
-
-
-
 # Added by Antigravity CLI installer
 export PATH="/home/mkwktr/.local/bin:$PATH"
